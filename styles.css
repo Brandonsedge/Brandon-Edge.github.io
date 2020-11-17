@@ -1,0 +1,59 @@
+* {
+    font-family: sans-serif;
+}
+
+ * {
+    background-color: blanchedalmond;
+}
+
+img {
+padding:30px;
+
+}
+
+h1 {
+    text-align:
+    
+}
+
+#poem {
+    
+    margin-left: 40px;
+    font-style: italic;
+ }
+
+ .tab {
+     border-collapse:collapse;
+     border-spacing:0;
+    font: sans-serif;
+}
+
+.tab td {
+    border-color:black;
+    border-style:solid;
+    border-width:1px;
+    font-size:14px;
+    overflow:hidden;
+    padding:10px 5px;
+}
+
+.tab th {
+    border-color:black;
+    border-style:solid;
+    border-width:1px;
+    
+    font-size:14px;
+    overflow:hidden;
+    padding:10px 5px;
+    
+}
+.tab .tg-c3ow {
+    border-color:inherit;
+    text-align:center;
+    vertical-align:top
+}
+
+.tab .tg-0pky {
+    border-color:inherit;text-align:
+    left;vertical-align:top
+}
