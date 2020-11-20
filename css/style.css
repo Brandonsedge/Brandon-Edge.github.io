@@ -21,7 +21,7 @@ body, html {
 }
 
 .parallax2 {
-  background-image: url("timp.jpg");
+  background-image: url("timp_bg.jpg");
   height: 100%; 
   
     /* parallax effect */
