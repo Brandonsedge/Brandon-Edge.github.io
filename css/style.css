@@ -8,7 +8,7 @@ body, html {
 }
   
 .parallax {
-    background-image: url("profileLarg.jpg");
+    background-image: url("profile.jpg");
     height: 70%; 
   
     /* parallax effect */
@@ -21,7 +21,7 @@ body, html {
 }
 
 .parallax2 {
-  background-image: url("Timp.jpg");
+  background-image: url("timp.jpg");
   height: 100%; 
   
     /* parallax effect */
@@ -122,7 +122,7 @@ table.paleBlueRows tbody td {
   font-size: 12px;
 }
 table.paleBlueRows tr:nth-child(even) {
-  background: gainsboro;
+  background:lightblue;
 }
 table.paleBlueRows thead {
   background: #1C6EA4;
